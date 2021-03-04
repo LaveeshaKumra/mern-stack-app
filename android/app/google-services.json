@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064462198735",
+    "firebase_url": "https://mern-softdroid.firebaseio.com",
+    "project_id": "mern-softdroid",
+    "storage_bucket": "mern-softdroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064462198735:android:e65cbf888320462c8f94ba",
+        "android_client_info": {
+          "package_name": "learn.mern.stack_17j20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064462198735-ch9alc4ov9b4vfplsetbgrebbq89b10s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsMRf2IgLAX9I094FCJ-p2u38PGA4izA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064462198735-ch9alc4ov9b4vfplsetbgrebbq89b10s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
